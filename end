@@ -1,0 +1,23 @@
+[33mcommit 79888515cf490d5131d2a1b832f3e3791a408e3b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Taylor Campbell <tcampbell@bendystraw.net>
+Date:   Thu Oct 1 18:22:39 2020 -0700
+
+    added the new goat dlc
+
+[33mcommit 456bd5e56c5789862365495cf3921c6ac58a3c63[m
+Author: sgtstraw <tcampbell@bendystraw.net>
+Date:   Wed Sep 14 19:35:10 2016 -0700
+
+    added dogs
+
+[33mcommit b61fcd51ac83c44bfc8f4bb937e54052f67807ab[m
+Author: sgtstraw <tcampbell@bendystraw.net>
+Date:   Wed Sep 14 19:31:55 2016 -0700
+
+    added cat
+
+[33mcommit bda78733032bfc51ed96cd3ff1e90be9c150fd4e[m
+Author: sgtstraw <tcampbell@bendystraw.net>
+Date:   Wed Sep 14 18:43:57 2016 -0700
+
+    Initial commit
